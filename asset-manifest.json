@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react%20uplooad/static/css/main.bb3e7122.css",
+    "main.js": "/react%20uplooad/static/js/main.649901e7.js",
+    "static/media/sun&cloud.png": "/react%20uplooad/static/media/sun&cloud.88cd38e1aa2d30f28b78.png",
+    "static/media/drizzle.png": "/react%20uplooad/static/media/drizzle.4a9b54ff795cb3cb87a1.png",
+    "static/media/rain.png": "/react%20uplooad/static/media/rain.4c2dfbbf7e2a86374d79.png",
+    "static/media/snow.png": "/react%20uplooad/static/media/snow.10e99b501636f123df8f.png",
+    "index.html": "/react%20uplooad/index.html",
+    "main.bb3e7122.css.map": "/react%20uplooad/static/css/main.bb3e7122.css.map",
+    "main.649901e7.js.map": "/react%20uplooad/static/js/main.649901e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb3e7122.css",
+    "static/js/main.649901e7.js"
+  ]
+}
